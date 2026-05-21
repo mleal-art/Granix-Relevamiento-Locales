@@ -2,6 +2,7 @@
   "name": "Granix Relevamiento",
   "short_name": "Granix",
   "description": "Relevamiento de locales Granix",
+  "mi_texto_personalizado": "RELEVAMIENTO DE LOCALES",
   "start_url": "/Granix-Relevamiento-Locales/",
   "scope": "/Granix-Relevamiento-Locales/",
   "display": "standalone",
