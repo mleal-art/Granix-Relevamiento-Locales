@@ -5,8 +5,8 @@
   "start_url": "/Granix-Relevamiento-Locales/",
   "scope": "/Granix-Relevamiento-Locales/",
   "display": "standalone",
-  "background_color": "#CC1621",
-  "theme_color": "#CC1621",
+  "background_color": "#ffffff",
+  "theme_color": "#7A0000",
   "orientation": "portrait-primary",
   "lang": "es",
   "icons": [
